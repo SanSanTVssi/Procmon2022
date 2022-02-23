@@ -38,7 +38,7 @@
 									<key>GID</key>
 									<integer>80</integer>
 									<key>PATH</key>
-									<string>/Users/aai/Desktop/Procmon2022_1.2.3/Manual Install/Procmon2022.app</string>
+									<string>/Users/aai/Desktop/Procmon2.0.0/Manual Install/Procmon2022.app</string>
 									<key>PATH_TYPE</key>
 									<integer>0</integer>
 									<key>PERMISSIONS</key>
@@ -500,7 +500,7 @@
 				<key>USE_HFS+_COMPRESSION</key>
 				<false/>
 				<key>VERSION</key>
-				<string>1.2.4</string>
+				<string>2.0.0</string>
 			</dict>
 			<key>TYPE</key>
 			<integer>0</integer>
@@ -548,7 +548,7 @@
 											<key>GID</key>
 											<integer>80</integer>
 											<key>PATH</key>
-											<string>/Users/aai/Desktop/Procmon2022_1.2.3/Manual Install/Procmon2022</string>
+											<string>/Users/aai/Desktop/Procmon2.0.0/Manual Install/Procmon2022</string>
 											<key>PATH_TYPE</key>
 											<integer>0</integer>
 											<key>PERMISSIONS</key>
@@ -725,7 +725,7 @@
 											<key>GID</key>
 											<integer>0</integer>
 											<key>PATH</key>
-											<string>/Library/LaunchDaemons/com.apriorit.procmon2022.daemon.plist</string>
+											<string>/Users/aai/Desktop/Procmon2.0.0/Manual Install/com.apriorit.procmon2022.daemon.plist</string>
 											<key>PATH_TYPE</key>
 											<integer>0</integer>
 											<key>PERMISSIONS</key>
@@ -1023,7 +1023,7 @@
 				<key>USE_HFS+_COMPRESSION</key>
 				<false/>
 				<key>VERSION</key>
-				<string>1.2.4</string>
+				<string>2.0.0</string>
 			</dict>
 			<key>TYPE</key>
 			<integer>0</integer>
